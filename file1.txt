@@ -1,1 +1,2 @@
 Hello this is my new first file
+This is the added content
